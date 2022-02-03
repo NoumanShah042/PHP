@@ -1,3 +1,9 @@
-http://localhost/crash_course_php   --  it will run index.php file
+http://localhost/PhpCrashCourse   --  it will run index.php file
 
-http://localhost/crash_course_php/01_basics.php
+
+http://localhost/PhpCrashCourse/01_basics.php     --   variables ,operators,  datatypes
+
+http://localhost/PhpCrashCourse/02_MoreBasics.php    --   if, else , arrays , loops
+
+
+http://localhost/PhpCrashCourse/03_strings.php

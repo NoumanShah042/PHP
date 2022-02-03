@@ -9,12 +9,12 @@
 		
 		$("#btnShow").click(function(){
 		
-			var dataToSend = {"action": "task3","Name":"Nouman","City":"Lahore"};  
+			var dataToSend = {"action": "task4","Name":"Nouman","City":"Lahore"};  
 			
 			var settings= {
 				type: "POST",
-				dataType: "json",
-				url: "api.php",       // where to hit ajax call
+				dataType: "json",     
+				url: "api.php",       //  where to hit ajax call
 				data: dataToSend,
 				success: Mysucfunction,
 				error: OnError

@@ -5,6 +5,7 @@
 
     <?php
 	class Student {
+		
 		function Student() {
 			$this->ID = "0";
 			$this->Name = "";

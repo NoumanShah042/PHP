@@ -1,5 +1,5 @@
 <?php
-// show response data in console
+ 
 
   if (isset($_REQUEST["action"]) && !empty($_REQUEST["action"]))   // javascript object ( dataToSend)  will be received as key value pair ( Associative Array )
   { 
@@ -34,6 +34,8 @@
 	
 		$output["data"] = $countries;
 		echo json_encode($output);
+
+		//  we can access this response as    response['data']    in ajax1.php file
 	}
 	else if($action == "task5")
 	{

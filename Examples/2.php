@@ -27,13 +27,13 @@
 	echo "<br>";
 
 
-	//$s = null;
+	// $s = null;
 	$s = "";
 
 	if (isset($s) == true)   // isset: Determine if a variable is declared and is different than NULL
 		echo "Value is not null <br>";
 	else
-		echo "Value is null <br>";
+		echo "Value is null <br>";    // print  if we set variable to null or there is no variable 
 
 	if (empty($s) == true) {
 		echo "Value is empty string <br>";

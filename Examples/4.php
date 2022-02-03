@@ -48,7 +48,7 @@
 
 	//Print values
 	foreach ($salaries as $salary) {
-		echo "Salary is $salary <br>";   //  print as Salary is 2000
+		echo "Salary is $salary <br>";   //  print as ->  Salary is 2000
 	}
 
 	echo "<br>";

@@ -26,5 +26,6 @@ echo "<br>";
 print_r($_SESSION);
 ?>
 
+</h1>
 </body>
 </html>

@@ -1,4 +1,9 @@
 
+http://localhost/Examples/
+
+***********************
+
+2.php  --   output     print , echo ,  var_dump
 3.php  --   loops + conditionals
 4.php  --   all about arrays
 5.php  --   functions
@@ -19,7 +24,7 @@ login.php --   $_SESSION
 
 take user credentials, 
 on button click check if data is empty or not
-and when form submitted it check credentials  , save username to session and redirect to home page
+and when form submitted it check credentials using javascript/jQuery , save username to session and redirect to home page
 
 home.php -- 
 get user from session array and just show 
@@ -32,5 +37,5 @@ get user from session array and just show
 
   database   
  
-13a.php  --    select query to get student table data
+13a.php  --     get and show all data from student table  
 13b.php  --     insert data to student table

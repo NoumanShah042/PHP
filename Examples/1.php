@@ -27,7 +27,7 @@
 		print "element is " . $a . "<br>";
 	}
 
-	//$b = 12;
+	// $b = 12;
 
 	echo '<br>';
 	echo '<br>';
