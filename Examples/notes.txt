@@ -1,0 +1,36 @@
+
+3.php  --   loops + conditionals
+4.php  --   all about arrays
+5.php  --   functions
+6.php  --   class
+7.php  --   multiple php blocks
+
+8a.php  --    post request using form
+8b.php  --    post request using form and show data after checking btnsubmit is pressed or not
+8c.php  --    validate form data and redirect to diff page if valid credentials
+
+9a.php  --      make combo box from php array and send post request to 9b.php
+9b.php  --      take posted data and show on page
+       
+***********************
+10 
+
+login.php --   $_SESSION
+
+take user credentials, 
+on button click check if data is empty or not
+and when form submitted it check credentials  , save username to session and redirect to home page
+
+home.php -- 
+get user from session array and just show 
+
+***********************
+
+11.php --   ajax practice
+
+***********************
+
+  database   
+ 
+13a.php  --    select query to get student table data
+13b.php  --     insert data to student table

@@ -1,0 +1,112 @@
+body {
+	background-color: #c0c0c0;
+	color: #a8a8a8;
+
+	font: normal 16px Arial, Helvetica, sans-serif;
+
+	line-height: 1.6em;
+	margin: 0;
+}
+
+.container {
+	width: 30%; /* use percentage for responsive look*/
+	margin: auto;
+	margin-top: 5%;
+	border-radius: 20px;
+	background-color: white;
+	margin-bottom: 10%;
+	position: relative;
+}
+.heading {
+	padding: 25px;
+	font-size: 25px;
+	background-color: #f85252;
+	color: white;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+.my-form {
+	margin-right: 13px;
+	padding: 30px;
+}
+
+.my-form .form-group {
+	padding-bottom: 15px;
+}
+
+.my-form label {
+	display: block;
+}
+
+.my-form input[type="text"], 
+.my-form input[type="password"],
+textarea {
+	padding: 10px;
+	font-size: 16px;
+	background-color: #eeeeee;
+	width: 96%;
+	border-radius: 5px;
+	border: none;
+}
+input[type="number" i]
+{
+	padding: 10px;
+	font-size: 16px;
+	background-color: #eeeeee;
+	width: 96%;
+	border-radius: 5px;
+	border: none;
+}
+.my-form select {
+	padding: 10px;
+	font-size: 15px;
+	background-color: #eeeeee;
+	width: 102%;
+	border-radius: 5px;
+	border: none;
+}
+::placeholder {
+	color: #a8a8a8;
+}
+
+.btn {
+	margin: 0 auto;
+	background-color: #2ecd73;
+	color: white;
+	text-align: center;
+	border: none;
+	padding: 10px 15px;
+	position: relative;
+	left: 40%;
+	font-size: 16px;
+	border-radius: 5px;
+}
+#logout {
+	
+	background-color: #c0c0c0;
+	color: black;
+	cursor:pointer;
+	display: inline;
+	border: none;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 10px 20px;
+}
+
+#log
+{
+	position: absolute;	
+	top: 656px;
+    left: 419px;
+}
+#log form{
+	display: inline;
+}
+.vl {
+  border-left: 4px solid green;
+  height: 100px;
+}

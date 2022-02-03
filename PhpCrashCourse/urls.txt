@@ -1,0 +1,3 @@
+http://localhost/crash_course_php   --  it will run index.php file
+
+http://localhost/crash_course_php/01_basics.php
